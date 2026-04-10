@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&size=32&center=true&vCenter=true&width=750&lines=Hey+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;I+turn+data+into+stories+%F0%9F%AA%84;Building+skills+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Hey+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Creative+mind+%2B+Data+thinking+%F0%9F%AA%84;Building+while+learning+every+day" />
 </p>
 
 <p align="center">
@@ -8,18 +8,24 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
+</p>
+
+---
+
 # 🪄 Hey, I'm Garima
 
-💭 I enjoy understanding data, finding patterns, and turning them into something meaningful.
-Right now, I’m focused on learning deeply and building projects that actually make sense.
+💭 I enjoy working with data, understanding patterns, and turning them into something meaningful.
+✨ A mix of creativity + logic — I like building things that actually make sense.
 
 ---
 
 ## 🌱 About Me
 
 ✨ Computer Science student
-📊 Interested in Data Analytics & NLP
-🧠 Love solving real-world problems
+📊 Exploring Data Analytics & NLP
+🎨 Creative thinker + problem solver
 ⚡ Believe in consistency > perfection
 
 ---
@@ -27,17 +33,22 @@ Right now, I’m focused on learning deeply and building projects that actually 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="40"/>
-<img src="https://cdn.simpleicons.org/excel/217346" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 
 </p>
 
@@ -45,30 +56,21 @@ Right now, I’m focused on learning deeply and building projects that actually 
 
 ## 🧪 Projects
 
-<div align="center">
+✨ **Instagram Performance Analyzer**
+→ Visualizes engagement trends
 
-🔮 **Instagram Performance Analyzer**
-→ Visualizes engagement & growth patterns
+✨ **Student Marks Analyzer**
+→ Converts raw data into insights
 
-📊 **Student Marks Analyzer**
-→ Generates insights like averages & rankings
-
-🧠 **Product Review Analyzer**
+✨ **Product Review Analyzer**
 → NLP-based sentiment classification
-
-</div>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garimaahuja04&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garimaahuja04&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garimaahuja04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garimaahuja04&theme=tokyonight" />
 </p>
 
 ---
@@ -98,10 +100,13 @@ Right now, I’m focused on learning deeply and building projects that actually 
 
 <p align="center">
   <a href="https://linkedin.com/in/garima-ahuja-a4102006">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
   <a href="https://github.com/Garimaahuja04">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  </a>
+  <a href="https://instagram.com/garima_a0410">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
   </a>
 </p>
 
