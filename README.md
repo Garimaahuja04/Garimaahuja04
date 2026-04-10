@@ -1,69 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=30&center=true&vCenter=true&width=700&lines=Hi+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Turning+data+into+meaningful+insights+%F0%9F%AA%84;Building+while+learning+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&size=32&center=true&vCenter=true&width=750&lines=Hey+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;I+turn+data+into+stories+%F0%9F%AA%84;Building+skills+every+day" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garimaahuja04&color=9D4EDD&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Garimaahuja04&color=C77DFF&style=for-the-badge" />
 </p>
 
 ---
 
 # 🪄 Hey, I'm Garima
 
-I enjoy working with data, understanding patterns, and turning them into something useful.
-Right now, I’m focused on learning, building, and improving — one project at a time.
+💭 I enjoy understanding data, finding patterns, and turning them into something meaningful.
+Right now, I’m focused on learning deeply and building projects that actually make sense.
 
 ---
 
 ## 🌱 About Me
 
-* 🎓 Computer Science undergraduate
-* 📊 Interested in Data Analytics & NLP
-* 💡 Like building simple, practical solutions
-* ✨ Believe in consistency over perfection
+✨ Computer Science student
+📊 Interested in Data Analytics & NLP
+🧠 Love solving real-world problems
+⚡ Believe in consistency > perfection
 
 ---
 
-## ⚡ Tech I Work With
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
 </p>
 
 <p align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-7B2CBF?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-Computation-5A189A?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-9D4EDD?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Basics-C77DFF?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="40"/>
+<img src="https://cdn.simpleicons.org/excel/217346" height="40"/>
 
 </p>
 
 ---
 
-## 🧪 Featured Work
+## 🧪 Projects
 
-✨ **Instagram Performance Analyzer**
-→ Visualizes engagement trends
+<div align="center">
 
-✨ **Student Marks Analyzer**
-→ Converts raw data into insights
+🔮 **Instagram Performance Analyzer**
+→ Visualizes engagement & growth patterns
 
-✨ **Product Review Analyzer**
+📊 **Student Marks Analyzer**
+→ Generates insights like averages & rankings
+
+🧠 **Product Review Analyzer**
 → NLP-based sentiment classification
+
+</div>
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garimaahuja04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garimaahuja04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garimaahuja04&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garimaahuja04&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -82,14 +83,14 @@ Right now, I’m focused on learning, building, and improving — one project at
 
 ## 🎓 Education
 
-B.Tech in Computer Science
-Dronacharya College of Engineering, Gurugram
+🎓 B.Tech – Computer Science
+📍 Dronacharya College of Engineering, Gurugram
 
 ---
 
 ## 🏆 Highlight
 
-Represented as NSS Volunteer at RDC Parade, New Delhi
+🏅 NSS Volunteer – RDC Parade, New Delhi
 
 ---
 
@@ -97,10 +98,10 @@ Represented as NSS Volunteer at RDC Parade, New Delhi
 
 <p align="center">
   <a href="https://linkedin.com/in/garima-ahuja-a4102006">
-    <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="https://github.com/Garimaahuja04">
-    <img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
 
