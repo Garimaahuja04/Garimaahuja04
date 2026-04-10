@@ -1,4 +1,5 @@
-<p align="center">
+🌐 Portfolio: https://Garimaahuja04.github.io/portfolio/
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Hey+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Creative+mind+%2B+Data+thinking+%F0%9F%AA%84;Building+while+learning+every+day" />
 </p>
 
