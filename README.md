@@ -68,6 +68,18 @@
 
 ---
 
+## 📊 Research
+
+📄 **E-Agriculture & ICT for Sustainable Agricultural Development**  
+→ Explores the role of ICT in transforming agriculture through digital tools and data-driven approaches  
+
+[![View Research Paper](https://img.shields.io/badge/View%20Research%20Paper-9D4EDD?style=for-the-badge&logo=readthedocs&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-06671-8_48)
+
+📄 **Tapping Tribal Potential – Social Business in Wasteland Regions**  
+→ Focuses on sustainable development and eco-friendly transformation of rural regions  
+---
+
+
 ## 📊 GitHub Overview
 
 <p align="center">
