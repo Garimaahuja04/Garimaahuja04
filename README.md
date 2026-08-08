@@ -1,130 +1,57 @@
-🌐 Portfolio: https://Garimaahuja04.github.io/portfolio/
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Hey+I'm+Garima+Ahuja+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Creative+mind+%2B+Data+thinking+%F0%9F%AA%84;Building+while+learning+every+day" />
-</p>
+<h1 align="center">Hi 👋, I'm Garima Ahuja</h1>
+<h3 align="center">Data Analyst & Software Developer | B.Tech CSE (AI/Data Focus)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garimaahuja04&color=C77DFF&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+NLP;Building+end-to-end+analytics+tools" alt="Typing SVG" />
 </p>
+
+- 🎓 B.Tech in Computer Science Engineering (CSE Core), Dronacharya College of Engineering, Gurugram — 2024–2028
+- 💼 IT & D Intern @ Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs — dashboards, testing & data analytics (Jun–Jul 2026)
+- 🔭 Currently building data analysis & NLP-based tools (sentiment analysis, engagement analytics, performance dashboards)
+- 📊 Comfortable with Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn for turning raw data into insight
+- 📝 Published research: *E-Agriculture and ICT for Sustainable Agricultural Development* (ICT4SD 2025) and *Tapping Tribal Potential: Social Business in Wasteland Regions* (ICSSR-sponsored National Seminar, 2025)
+- 🌱 Currently sharpening C++, Java, and PostgreSQL alongside my data analytics stack
+- 📫 Reach me: **garimaa410@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/garima-ahuja-a4102006) · [Portfolio](https://garimaahuja04.github.io/portfolio/)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
-</p>
+### 🛠️ Languages & Tools
 
----
-
-# 🪄 Hey, I'm Garima
-
-💭 I enjoy working with data, understanding patterns, and turning them into something meaningful.
-✨ A mix of creativity + logic — I like building things that actually make sense.
-
----
-
-## 🌱 About Me
-
-✨ Computer Science student
-📊 Exploring Data Analytics & NLP
-🎨 Creative thinker + problem solver
-⚡ Believe in consistency > perfection
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🧪 Projects
+### 📌 Featured Projects
 
-✨ **Instagram Performance Analyzer**
-→ Visualizes engagement trends
-
-✨ **Student Marks Analyzer**
-→ Converts raw data into insights
-
-✨ **Product Review Analyzer**
-→ NLP-based sentiment classification
+| Project | Description |
+|---|---|
+| 📸 **Instagram Performance Analyzer** | Python tool to analyze Instagram post metrics and visualize engagement trends |
+| 📊 **Student Marks Analyzer** | Generates statistical summaries — averages, rankings, trend analysis — using NumPy & Pandas |
+| 🧠 **Product Review Analyzer** | NLP-based sentiment classification of product reviews (positive/negative/neutral) |
 
 ---
 
-## 📊 Research
-
-📄 **E-Agriculture & ICT for Sustainable Agricultural Development**  
-→ Explores the role of ICT in transforming agriculture through digital tools and data-driven approaches  
-
-[![View Research Paper](https://img.shields.io/badge/View%20Research%20Paper-9D4EDD?style=for-the-badge&logo=readthedocs&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-06671-8_48)
-
-📄 **Tapping Tribal Potential – Social Business in Wasteland Regions**  
-→ Focuses on sustainable development and eco-friendly transformation of rural regions  
----
-
-
-## 📊 GitHub Overview
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garimaahuja04&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garimaahuja04&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garimaahuja04&layout=compact" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎓 Education
-
-🎓 B.Tech – Computer Science
-📍 Dronacharya College of Engineering, Gurugram
-
----
-
-## 🏆 Highlight
-
-🏅 NSS Volunteer – RDC Parade, New Delhi
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/garima-ahuja-a4102006">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
-  </a>
-  <a href="https://github.com/Garimaahuja04">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  </a>
-  <a href="https://instagram.com/garima_a0410">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ "Mischief Managed"
+  <img src="https://komarev.com/ghpvc/?username=Garimaahuja04&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
